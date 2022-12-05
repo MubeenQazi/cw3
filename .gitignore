@@ -1,0 +1,6 @@
+src/media/*
+src/plugins/*
+*.zip
+dist/assets/media/*
+dist/assets/plugins/*
+src/sass/vendors/plugins/*
