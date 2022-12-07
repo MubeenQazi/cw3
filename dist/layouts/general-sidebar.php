@@ -55,7 +55,7 @@
 											<!--begin:Menu item-->
 											<div class="menu-item">
 												<!--begin:Menu link-->
-												<a class="menu-link active" href="../../demo1/dist/dashboards/ecommerce.php">
+												<a class="menu-link" href="../../demo1/dist/dashboards/ecommerce.php">
 													<span class="menu-bullet">
 														<span class="bullet bullet-dot"></span>
 													</span>
@@ -63,7 +63,16 @@
 												</a>
 												<!--end:Menu link-->
 											</div>
-									
+											<div class="menu-item">
+												<!--begin:Menu link-->
+												<a class="menu-link" href="../../demo1/dist/dashboards/website-analytics.php">
+													<span class="menu-bullet">
+														<span class="bullet bullet-dot"></span>
+													</span>
+													<span class="menu-title">Data & Analytics</span>
+												</a>
+												<!--end:Menu link-->
+											</div>
 											<!--end:Menu item-->
 											<div class="menu-inner flex-column collapse" id="kt_app_sidebar_menu_dashboards_collapse">
 												<!--begin:Menu item-->
@@ -815,7 +824,7 @@
 									<div class="menu-item pt-5">
 										<!--begin:Menu content-->
 										<div class="menu-content">
-											<span class="menu-heading fw-bold text-uppercase fs-7">Support (For Members)</span>
+											<span class="menu-heading fw-bold text-uppercase fs-7">SUPPORT CENTER</span>
 										</div>
 										<!--end:Menu content-->
 									</div>
