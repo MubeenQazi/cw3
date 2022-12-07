@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
     <head>
         <title>Laragon</title>
@@ -57,5 +57,9 @@
             </div>
 
         </div>
+        
     </body>
-</html>
+</html> -->
+<script>
+	window.location.href="/demo1/dist/authentication/layouts/fancy/sign-in.html";
+</script>
